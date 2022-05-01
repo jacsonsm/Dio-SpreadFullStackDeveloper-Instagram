@@ -26,7 +26,7 @@ Esse é o repositório da aulaFlexbox, na qual realizamos a construção da inte
 Clone the project and access the folder
 
 ```bash
-$ https://github.com/jacsonsm/Dio-SpreadFullStackDeveloper-Instagram.git && cd Instagram login Page
+$ https://github.com/jacsonsm/Dio-SpreadFullStackDeveloper-Instagram.git
 ```
 
 ## 📝 License
