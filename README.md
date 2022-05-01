@@ -16,8 +16,9 @@ Esse é o repositório da aulaFlexbox, na qual realizamos a construção da inte
 
 ## 🧪 Technologies
 
-HTML básico
-CSS básico
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
+
 🚀 Let's code! 🚀
 
 ## 🚀 Getting started
