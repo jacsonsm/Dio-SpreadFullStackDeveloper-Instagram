@@ -6,6 +6,11 @@
 
 <br>
 
+<h1 align="center">
+    <img alt="Instagram" title="Instagram login Page" src=https://github.com/jacsonsm/Dio-SpreadFullStackDeveloper-Instagram/blob/725b1fc702222f2438600af6252c0363f665d808/public/img/instagram-celular.png" />
+</h1>
+
+<br>
 ## 💻 Project
 
 Esse é o repositório da aulaFlexbox, na qual realizamos a construção da interface de login do Instagram!
